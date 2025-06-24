@@ -10,7 +10,7 @@ The system detects monkeys in video footage and is trained using a custom datase
 
 To automatically detect monkeys in surveillance video and generate alerts to prevent intrusion or disturbances in hostel or campus areas.
 
----
+--
 
 ## ML Details
 
