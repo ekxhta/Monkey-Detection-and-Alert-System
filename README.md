@@ -27,4 +27,30 @@ To automatically detect monkeys in surveillance video and generate alerts to pre
 |------|-------------|
 | `Minor_training.ipynb` | Colab notebook for training |
 | `Minor_testing.ipynb` | Colab notebook for testing |
-| `drive_links.md` | Links to dataset, model, and test_
+| `drive_links.md` | Links to dataset, model, and test|
+| `training_notebook_link.md` | Quick link to training Colab |
+| `testing_notebook_link.md` | Quick link to testing Colab |
+
+
+## How to Use
+
+1. Open the [training notebook](https://colab.research.google.com/drive/1ObUF6T62c5ZmMY_9DXXoE-WgeGKQ3Oal)
+2. Mount Google Drive and load the dataset
+3. Train YOLOv8 and export `best.pt`
+4. Open [testing notebook](https://colab.research.google.com/drive/1weZWB6phiVk5I9WCWYz1cyeXgj60bS25)
+5. Run detection on a video
+
+
+## Drive Resources
+
+See [`drive_links.md`](drive_links.md) for:
+- Roboflow dataset
+- Trained model (`best.pt`)
+- Sample video
+
+
+## 👩‍💻 Author
+
+Ekshta Mishra  
+Final-year CSE student, JUIT Solan  
+ML Developer – Monkey Threat Detection and Alert System
