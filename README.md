@@ -28,8 +28,6 @@ To automatically detect monkeys in surveillance video and generate alerts to pre
 | `Minor_training.ipynb` | Colab notebook for training |
 | `Minor_testing.ipynb` | Colab notebook for testing |
 | `drive_links.md` | Links to dataset, model, and test|
-| `training_notebook_link.md` | Quick link to training Colab |
-| `testing_notebook_link.md` | Quick link to testing Colab |
 
 
 ### How to Use
