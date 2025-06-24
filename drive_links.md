@@ -7,7 +7,7 @@ This project relies on Google Drive to store the dataset, trained model, and tes
 ### Roboflow Monkey Detection Dataset
 
 - Folder (contains `train/`, `test/`, `valid/`, `data.yaml`, and readme files):  
-  -> [Monkey Detection Dataset on Drive](https://drive.google.com/drive/folders/19lzEpqpo4mffK9B_YIv0OAGYLgrFy5Y1)
+  → [Monkey Detection Dataset on Drive](https://drive.google.com/drive/folders/19lzEpqpo4mffK9B_YIv0OAGYLgrFy5Y1)
 - The original dataset can also be downloaded from [Here](https://universe.roboflow.com/monkey-3byip/monkey-l6seo)
 
 - Contents:
