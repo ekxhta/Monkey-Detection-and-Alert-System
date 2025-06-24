@@ -1,4 +1,4 @@
-# Monkey Threat Detection - ML Module
+# Monkey Threat Detection - Machine Learning 
 
 This repository contains the YOLOv8-based model implementation for the Monkey Threat Detection and Alert System.
 
