@@ -6,13 +6,13 @@ The system detects monkeys in video footage and is trained using a custom datase
 
 
 
-## Objective
+### Objective
 
 To automatically detect monkeys in surveillance video and generate alerts to prevent intrusion or disturbances in hostel or campus areas.
 
 
 
-## ML Details
+### ML Details
 
 - **Model**: YOLOv8 (YOLOv8l)
 - **Platform**: Google Colab
@@ -21,7 +21,7 @@ To automatically detect monkeys in surveillance video and generate alerts to pre
 
 
 
-## Files
+### Files
 
 | File | Description |
 |------|-------------|
@@ -32,7 +32,7 @@ To automatically detect monkeys in surveillance video and generate alerts to pre
 | `testing_notebook_link.md` | Quick link to testing Colab |
 
 
-## How to Use
+### How to Use
 
 1. Open the [training notebook](https://colab.research.google.com/drive/1ObUF6T62c5ZmMY_9DXXoE-WgeGKQ3Oal)
 2. Mount Google Drive and load the dataset
@@ -41,7 +41,7 @@ To automatically detect monkeys in surveillance video and generate alerts to pre
 5. Run detection on a video
 
 
-## Drive Resources
+### Drive Resources
 
 See [`drive_links.md`](drive_links.md) for:
 - Roboflow dataset
@@ -49,7 +49,7 @@ See [`drive_links.md`](drive_links.md) for:
 - Sample video
 
 
-## 👩‍💻 Author
+### Author
 
 Ekshta Mishra  
 Final-year CSE student, JUIT Solan  
