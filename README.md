@@ -4,7 +4,7 @@ This repository contains the YOLOv8-based model implementation for the Monkey Th
 
 The system detects monkeys in video footage and is trained using a custom dataset from Roboflow. Training and testing are done in Google Colab, with data stored in Google Drive.
 
----
+--
 
 ## Objective
 
@@ -19,7 +19,7 @@ To automatically detect monkeys in surveillance video and generate alerts to pre
 - **Dataset**: Roboflow (YOLOv8 format)
 - **Trained Weights**: `best.pt` stored on Google Drive
 
----
+--
 
 ## Files
 
