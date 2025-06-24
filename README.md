@@ -5,6 +5,16 @@ This repository contains the YOLOv8-based model implementation for the Monkey Th
 The system detects monkeys in video footage and is trained using a custom dataset from Roboflow. Training and testing are done in Google Colab, with data stored in Google Drive.
 
 
+### ⛰️ How It Started
+My college is based in the Shimla-Solan hills, where wildlife nests among us — more of a cohabiting situation.
+But cohabiting can turn feral real quick.
+
+Monkeys roam our college grounds and enter hostels, waiting to pounce on anything remotely edible — regardless of whether it’s in our hands or halfway in our mouths.
+They topple dustbins, wait outside rooms — basically creating an unhygienic and anxiety-inducing situation.
+
+One such day, while we were on a deadline to come up with ideas for our minor projects, I opened the door to find a small primate staring directly into my eyes, calmly sitting at my doorstep.
+And in that moment, my heart decided it needed to come up with something fast — before it gave out from the daily jump-scares these monkeys kept serving
+
 
 ### Objective
 
